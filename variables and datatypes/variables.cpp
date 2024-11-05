@@ -22,7 +22,15 @@ int main() {
 
 	// char variable
 	char grade = 'A';
-	cout << "He has got " << grade << endl;
+	//cout << "He has got " << grade << endl;
+	
+
+	// boolian varibales ( true or false )
+	bool isInStock = true;
+	bool forSale = false;
+
+	cout << "Are those in stock: " << isInStock << endl;
+	cout << "Are those for sale: " << forSale << endl;
 	
 
 	return 0;
