@@ -16,8 +16,13 @@ int main() {
 	price2 = 11.798;
 	price3 = 9.1;
 
-	cout << "You have to pay: " << endl;
-	cout << price1 << " For apple, " << price2 << " For banana, " << price3 << " For mango." << endl;
+	//cout << "You have to pay: " << endl;
+	//cout << price1 << " For apple, " << price2 << " For banana, " << price3 << " For mango." << endl;
+	
+
+	// char variable
+	char grade = 'A';
+	cout << "He has got " << grade << endl;
 	
 
 	return 0;
