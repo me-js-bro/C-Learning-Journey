@@ -29,8 +29,19 @@ int main() {
 	bool isInStock = true;
 	bool forSale = false;
 
-	cout << "Are those in stock: " << isInStock << endl;
-	cout << "Are those for sale: " << forSale << endl;
+	//cout << "Are those in stock: " << isInStock << endl;
+	//cout << "Are those for sale: " << forSale << endl;
+	
+
+	// strings
+	string name, day, food;
+	name = "Js Bro";
+	day = "Friday";
+	food = "Kacchi Biriany";
+
+	cout << "I am " << name << endl;
+	cout << "I am free this " << day << endl;
+	cout << "I love the " << food << endl;
 	
 
 	return 0;
